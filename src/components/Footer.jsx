@@ -1,6 +1,6 @@
 import SocialLinks from './SocialLinks'
 // import Logo from '../assets/img/logo.png'
-import logo from '../assets/img/kadenaArtWork_images/Coconut.png'
+import logo from '../assets/img/Logo.png'
 
 function Footer() {
     return (

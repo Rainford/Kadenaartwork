@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import SocialLinks from '../components/SocialLinks'
 // import logo from '../assets/img/logo.png'
-import logo from '../assets/img/kadenaArtWork_images/Coconut.png'
+import logo from '../assets/img/Logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
 
