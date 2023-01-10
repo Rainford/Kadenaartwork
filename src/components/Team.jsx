@@ -2,6 +2,8 @@ import devi from '../assets/img/team/devi.gif'
 import hayat from '../assets/img/team/hayat.gif'
 import rl from '../assets/img/team/rl.gif'
 import parvez from '../assets/img/team/parvez.gif'
+import teamshape from '../src/assets/img/teamshape.png'
+import teamcontent from '../src/assets/img/teamcontent.png'
 
 function Team() {
     return (
@@ -14,7 +16,7 @@ function Team() {
                         </div>
                     </div>
                 </div>
-                <div className="row text-center -mt-40 ">
+                <div className="row text-center -mt-40 "> flex ==$0
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
