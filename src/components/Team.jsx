@@ -15,7 +15,7 @@ function Team() {
                         </div>
                     </div>
                 </div>
-                <div className="row text-center -mt-40 "> flex ==$0
+                <div className="row text-center -mt-40 ">
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
