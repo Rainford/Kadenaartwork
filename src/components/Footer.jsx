@@ -8,7 +8,7 @@ function Footer() {
             <div className="container ">
                 <div className="row align-items-center ">
                     <div className="col-md-4 text-center text-md-start">
-                        <p className="text-white ">@2022 NFT Landing Page</p>
+                        <p className="text-white ">@2023 Kadena Artwork NFT</p>
                     </div>
                     <div className="col-md-4 text-center ">
                         <div className="footer-logo ">
