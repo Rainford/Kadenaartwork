@@ -58,9 +58,9 @@ function FAQ(){
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="7">
-                                <Accordion.Header>What is Kadena ($KDA )?</Accordion.Header>
+                                <Accordion.Header>What is Kadena ($KDA)?</Accordion.Header>
                                 <Accordion.Body>
-                                    <p>Welcome! https://kadena.io/</p>
+                                    <p> <a href="https://kadena.io/"> Kadena </a> </p>
                                 </Accordion.Body>
                             </Accordion.Item>
                         </Accordion>
