@@ -3,6 +3,7 @@ import hayat from '../assets/img/team/hayat.gif'
 import rl from '../assets/img/team/rl.gif'
 import parvez from '../assets/img/team/parvez.gif'
 
+
 function Team() {
     return (
         <div className="team" id="team">
@@ -14,11 +15,11 @@ function Team() {
                         </div>
                     </div>
                 </div>
-                <div className="row text-center -mt-40 ">
+                <div className="row text-center -mt-40 "> flex ==$0
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-gray mx-auto "><img src={hayat} alt=" "/></div>
+                                <div className="bg-gray mx-auto "> <a href="https://twitter.com/Hayat_8481" target="_blank"> <img src={hayat} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Hayat</h4>
@@ -29,7 +30,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-navigreen mx-auto "><img src={devi} alt=" "/></div>
+                                <div className="bg-navigreen mx-auto "> <a href="https://twitter.com/devinamira" target="_blank"> <img src={devi} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Devi</h4>
@@ -40,7 +41,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-purple mx-auto "><img src={rl} alt=" "/></div>
+                                <div className="bg-sky mx-auto "> <a href="https://www.facebook.com/RainfordLennon/" target="_blank"> <img src={rl} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>RL</h4>
@@ -51,7 +52,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-sky mx-auto "><img src={parvez} alt=" "/></div>
+                                <div className="bg-purple mx-auto "> <a href="https://dribbble.com/ParvezMasud17/about" target="_blank"> <img src={parvez} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Parvez</h4>
