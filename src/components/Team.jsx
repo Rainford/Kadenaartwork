@@ -18,7 +18,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-gray mx-auto "><img src={hayat} alt=" "/></div>
+                                <div className="bg-gray mx-auto "> <a href="https://twitter.com/Hayat_8481" target="_blank"> <img src={hayat} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Hayat</h4>
