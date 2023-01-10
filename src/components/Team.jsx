@@ -51,7 +51,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-purple mx-auto "><img src={parvez} alt=" "/></div>
+                                <div className="bg-purple mx-auto "> <a href="https://dribbble.com/ParvezMasud17/about" target="_blank"> <img src={parvez} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Parvez</h4>
