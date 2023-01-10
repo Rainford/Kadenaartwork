@@ -29,7 +29,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-navigreen mx-auto "><img src={devi} alt=" "/></div>
+                                <div className="bg-navigreen mx-auto "> <a href="https://twitter.com/devinamira" target="_blank"> <img src={devi} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>Devi</h4>
