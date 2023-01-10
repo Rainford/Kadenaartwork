@@ -2,8 +2,7 @@ import devi from '../assets/img/team/devi.gif'
 import hayat from '../assets/img/team/hayat.gif'
 import rl from '../assets/img/team/rl.gif'
 import parvez from '../assets/img/team/parvez.gif'
-import teamshape from '../src/assets/img/teamshape.png'
-import teamcontent from '../src/assets/img/teamcontent.png'
+
 
 function Team() {
     return (
