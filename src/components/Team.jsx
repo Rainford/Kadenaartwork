@@ -40,7 +40,7 @@ function Team() {
                     <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
-                                <div className="bg-sky mx-auto "><img src={rl} alt=" "/></div>
+                                <div className="bg-sky mx-auto "> <a href="hhttps://www.facebook.com/RainfordLennon/" target="_blank"> <img src={rl} alt=" "/> </a> </div>
                             </div>
                             <div className="team-item-content ">
                                 <h4>RL</h4>
