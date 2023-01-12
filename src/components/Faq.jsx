@@ -35,13 +35,13 @@ function FAQ(){
                             <Accordion.Item eventKey="3">
                                 <Accordion.Header>How many Collection Count and why?</Accordion.Header>
                                 <Accordion.Body>
-                                    <p>5000 unique NFT’s randomly mint with 10 1 of 1s</p>
+                                    <p>5000 unique NFT’s randomly mint with ten 1 of 1’s</p>
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="4">
                                 <Accordion.Header>What is the utility?</Accordion.Header>
                                 <Accordion.Body>
-                                    <p>For the 10 1 of 1’s, each get all year round VIP access to 10 5star all inclusive hotels in the Caribbean + (1 time free 3 days 2 nights at any of the 10 hotel anywhere in the Caribbean. All other holders get VIP access to these 10 5star all inclusive hotels. VIP access will enable you to get up to 40% discount on each stay.</p>
+                                    <p>For the ten 1 of 1’s, each get all year round VIP access to 10 5 star all inclusive hotels in the Caribbean + (1 time free 3 days 2 nights at any of the 10 hotel anywhere in the Caribbean. All other holders get VIP access to these ten 5 star all inclusive hotels. VIP access will enable you to get up to 40% discount on each stay.</p>
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="5">
