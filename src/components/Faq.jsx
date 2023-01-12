@@ -17,7 +17,7 @@ function FAQ(){
                             <Accordion.Item eventKey="0">
                                 <Accordion.Header>what is Kadena Artwork ?</Accordion.Header>
                                 <Accordion.Body>
-                                    <p>Kadena Artwork is where you can get various NFT artwork on the Kadena blockchain using the Marmalade Standard. All our NFT collections will be minted on the Mint-IT platform powered by Docushield.</p>
+                                    <p>Kadena Artwork is where you can get various NFTs on the Kadena blockchain using the Marmalade Standard.</p>
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="1">
@@ -35,7 +35,7 @@ function FAQ(){
                             <Accordion.Item eventKey="3">
                                 <Accordion.Header>How many Collection Count and why?</Accordion.Header>
                                 <Accordion.Body>
-                                    <p>5000 unique NFT’s random mint with 10 1of 1’s</p>
+                                    <p>5000 unique NFT’s randomly mint with 10 1 of 1s</p>
                                 </Accordion.Body>
                             </Accordion.Item>
                             <Accordion.Item eventKey="4">
