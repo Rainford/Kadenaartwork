@@ -55,7 +55,7 @@ function RoadMap(){
                             <div className="col-md-6">
                                 <div className="roadmap-inner">
                                     <h4 className="fw-semibold">PHASE 1</h4>
-                                    <p>Launch Twitter ✅, Discord & Telegram ✅<br /> Art Development ✅<br /> Project Collabs ✅</p>
+                                    <p>Launch Twitter ✅ <br /> Discord & Telegram ✅ <br /> Art Development ✅<br /> Project Collabs ✅</p>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@ function RoadMap(){
                             <div className="col-md-6">
                                 <div className="roadmap-inner right">
                                     <h4 className="fw-semibold">PHASE 2</h4>
-                                    <p>WL & Free Mint Giveaway ✅, Secure Launch Pad ✅<br /> Create Website ✅</p>
+                                    <p> WL & Free Mint Giveaway ✅ <br /> Secure Launch Pad ✅ <br /> Create Website ✅</p>
                                 </div>
                             </div>
                         </div>
