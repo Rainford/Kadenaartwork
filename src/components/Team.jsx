@@ -10,7 +10,7 @@ function Team() {
         <div className="team" id="team">
             <div className="container ">
                 <div className="row justify-content-center ">
-                    <div className="col-md-6 ">
+                    <div className="col-md-2 ">
                         <div className="section-title text-center ">
                             <h2>Our Team</h2>
                         </div>
