@@ -17,7 +17,7 @@ function Team() {
                     </div>
                 </div>
                 <div className="row text-center -mt-40 ">
-                    <div className="col-xl-3 col-lg-4 col-md-6 ">
+                    <div className="col-xl-3 col-lg-5 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-gray mx-auto "> <a href="https://twitter.com/Hayat_8481" target="_blank"> <img src={hayat} alt=" "/> </a> </div>
@@ -28,7 +28,7 @@ function Team() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-4 col-md-6 ">
+                    <div className="col-xl-3 col-lg-5 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-navigreen mx-auto "> <a href="https://twitter.com/devinamira" target="_blank"> <img src={devi} alt=" "/> </a> </div>
@@ -39,7 +39,7 @@ function Team() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-4 col-md-6 ">
+                    <div className="col-xl-3 col-lg-5 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-sky mx-auto "> <a href="https://www.facebook.com/RainfordLennon/" target="_blank"> <img src={rl} alt=" "/> </a> </div>
@@ -50,7 +50,7 @@ function Team() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-xl-3 col-lg-4 col-md-6 ">
+                    <div className="col-xl-3 col-lg-5 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-purple mx-auto "> <a href="https://dribbble.com/ParvezMasud17/about" target="_blank"> <img src={parvez} alt=" "/> </a> </div>
@@ -61,7 +61,7 @@ function Team() {
                             </div>
                         </div>
                       </div>
-                            <div className="col-xl-3 col-lg-4 col-md-6 ">
+                            <div className="col-xl-3 col-lg-5 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-purple mx-auto "> <a href="https://twitter.com/LuzzoticaLong" target="_blank"> <img src={Sterling} alt=" "/> </a> </div>
