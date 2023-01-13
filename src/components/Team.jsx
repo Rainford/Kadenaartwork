@@ -61,7 +61,7 @@ function Team() {
                             </div>
                         </div>
                       </div>
-                            <div className="col-xl-1 col-lg-1 col-md-1 ">
+                            <div className="col-xl-3 col-lg-4 col-md-6 ">
                         <div className="team-item ">
                             <div className="team-item-img mx-auto ">
                                 <div className="bg-purple mx-auto "> <a href="https://twitter.com/LuzzoticaLong" target="_blank"> <img src={Sterling} alt=" "/> </a> </div>
