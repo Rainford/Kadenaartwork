@@ -4,6 +4,7 @@ import SocialLinks from '../components/SocialLinks'
 import logo from '../assets/img/Logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'react-router-dom';
 
 function Header () {
 
@@ -24,9 +25,10 @@ function Header () {
                     <div className={`col-lg-11 text-end heading-mobile ${show ? 'show': ''}`} tabIndex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
                         <nav className="heading-nav d-flex align-items-center justify-content-end">
                             <ul className="heading-menu">
+                                <li><Link className="heading-links" to="/mint-page">Mint Now!</Link></li>
                                 <li><a href="#how_it_work" className="heading-links">How does it work?</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#collections" className="heading-links">Collections</a><span className="d-inline-block mx-2">/</span></li>
-                                <li><a href="#mlnt" className="heading-links">Mlnt it</a><span className="d-inline-block mx-2">/</span></li>
+                                <li><a href="#mlnt" className="heading-links">Mint it</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#road_map" className="heading-links">Road Map</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#team" className="heading-links">Team</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#faq" className="heading-links">FAQ</a><span className="d-inline-block mx-2">/</span></li>
