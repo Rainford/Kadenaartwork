@@ -2,6 +2,7 @@ import devi from '../assets/img/team/devi.gif'
 import hayat from '../assets/img/team/hayat.gif'
 import rl from '../assets/img/team/rl.gif'
 import parvez from '../assets/img/team/parvez.gif'
+import Sterling from '../assets/img/team/Sterling.gif'
 
 
 function Team() {
@@ -56,7 +57,18 @@ function Team() {
                             </div>
                             <div className="team-item-content ">
                                 <h4>Parvez</h4>
-                                <p className="fw-bold ">Developer</p>
+                                <p className="fw-bold "> Web Developer</p>
+                            </div>
+                        </div>
+                      </div>
+                            <div className="col-xl-3 col-lg-4 col-md-6 ">
+                        <div className="team-item ">
+                            <div className="team-item-img mx-auto ">
+                                <div className="bg-purple mx-auto "> <a href="https://twitter.com/LuzzoticaLong" target="_blank"> <img src={Sterling} alt=" "/> </a> </div>
+                            </div>
+                            <div className="team-item-content ">
+                                <h4>Sterling</h4>
+                                <p className="fw-bold "> Pact Developer</p>
                             </div>
                         </div>
                     </div>

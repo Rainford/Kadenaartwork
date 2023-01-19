@@ -48,14 +48,14 @@ function RoadMap(){
                                         <img src={img1} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q1 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q4 - 2022</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner">
                                     <h4 className="fw-semibold">PHASE 1</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p>Launch Twitter ✅ <br /> Discord & Telegram ✅ <br /> Art Development ✅<br /> Project Collabs ✅</p>
                                 </div>
                             </div>
                         </div>
@@ -66,14 +66,14 @@ function RoadMap(){
                                         <img src={img2} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q2 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q4 - 2022</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner right">
                                     <h4 className="fw-semibold">PHASE 2</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p> WL & Free Mint Giveaway ✅ <br /> Secure Launch Pad ✅ <br /> Create Website ✅</p>
                                 </div>
                             </div>
                         </div>
@@ -84,14 +84,14 @@ function RoadMap(){
                                         <img src={img3} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q3 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q1 - 2023</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner">
                                     <h4 className="fw-semibold">PHASE 3</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p>Finalize Strategic Project alliances <br /> WL, Free & Public Mint </p>
                                 </div>
                             </div>
                         </div>
@@ -102,14 +102,14 @@ function RoadMap(){
                                         <img src={img4} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q4 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q2 - 2023</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner right">
                                     <h4 className="fw-semibold">PHASE 4</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p> Development & deployment of the Tiki on-chain integrated booking platform <br /> Hiring of additional travel consultants <br /> Create DAO </p>
                                 </div>
                             </div>
                         </div>
@@ -120,14 +120,14 @@ function RoadMap(){
                                         <img src={img5} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q5 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q2 - 2023</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner">
                                     <h4 className="fw-semibold">PHASE 5</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p>Create exclusive discord channels for Tiki Ranks <br /> Marketing Campaign <br /> YouTube Partners </p>
                                 </div>
                             </div>
                         </div>
@@ -138,14 +138,14 @@ function RoadMap(){
                                         <img src={img6} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q6 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q3 - 2023</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner right">
                                     <h4 className="fw-semibold">PHASE 6</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p> The launch of $KAW Token <br /> Staking & Airdrops </p>
                                 </div>
                             </div>
                         </div>
@@ -156,14 +156,14 @@ function RoadMap(){
                                         <img src={img7} alt=""/>
                                     </div>
                                     <div className="content">
-                                        <h4 className="mb-0 fw-semibold ">Q7 - 2022</h4>
+                                        <h4 className="mb-0 fw-semibold ">Q4 - 2023</h4>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-md-6">
                                 <div className="roadmap-inner">
                                     <h4 className="fw-semibold">PHASE 7</h4>
-                                    <p>Launch Twitter, Discord & Telegram <br /> Art Development <br /> Project Collabs </p>
+                                    <p> Increase utilities </p>
                                 </div>
                             </div>
                         </div>
