@@ -1,6 +1,8 @@
 // import img from '../assets/img/kadenaArtWork_images/Standing-View.png'
 
-function Mlnt(){
+import { Link } from "react-router-dom"
+
+function Mlnt() {
     return (
         <div className="mlnt" id="mlnt">
             <div className="container">
@@ -9,7 +11,7 @@ function Mlnt(){
                         <div className="mlnt-content">
                             <h3>MINT IT</h3>
                             <p className="text-white">You can mint max 5 NFTs</p>
-                            <a href="/#" className="btn">MINT Now</a>
+                            <a href="https://mint.kadenaartwork.com" className="btn">MINT Now</a>
                         </div>
                     </div>
                     <div className="col-lg-5">

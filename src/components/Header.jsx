@@ -25,7 +25,7 @@ function Header () {
                     <div className={`col-lg-11 text-end heading-mobile ${show ? 'show': ''}`} tabIndex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
                         <nav className="heading-nav d-flex align-items-center justify-content-end">
                             <ul className="heading-menu">
-                                <li><Link className="heading-links" to="/mint-page">Mint Now!</Link></li>
+                                <li><a href="https://mint.kadenaartwork.com" className="heading-links">Mint Now!</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#how_it_work" className="heading-links">How does it work?</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#collections" className="heading-links">Collections</a><span className="d-inline-block mx-2">/</span></li>
                                 <li><a href="#mlnt" className="heading-links">Mint it</a><span className="d-inline-block mx-2">/</span></li>

@@ -306,6 +306,52 @@
     }
 }
 
+.mintpage {
+  padding: 246px 0px;
+    position: relative;
+    z-index: 1;
+    @include xl {
+        padding: 190px 0px;
+    }
+    @include lg {
+        padding: 160px 0px;
+    }
+    @include md {
+        padding: 130px 0px;
+    }
+    @include sm {
+        padding: 100px 0px;
+    }
+    &::before {
+        content: "";
+        height: 100%;
+        width: 50%;
+        background-image: url(../assets/img/kadenaArtWork_images/floating-island.gif);
+        background-size: contain;
+        background-position: left center;
+        background-repeat: no-repeat;
+        @include position_left();
+        z-index: -1;
+    }
+    &::after {
+        content: "";
+        @include position_right();
+        z-index: -1;
+        height: 100%;
+        width: 50%;
+        background-image: url(../assets/img/about-2.png);
+        background-size: auto;
+        background-position: right center;
+        background-repeat: no-repeat;
+    }
+    &-content {
+        & p {
+            font-size: 22px;
+            line-height: 1.6;
+        }
+    }
+}
+
 // reoadmap
 .roadmap {
     padding: 240px 0px;
